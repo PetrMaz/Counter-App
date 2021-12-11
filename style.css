@@ -1,0 +1,40 @@
+body {
+    background: #fcfc62!important;
+}
+.container {
+    border: 1px solid black;
+    height: 100vh;
+    width: 95%;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter {
+    border: 3px solid black;
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+    margin: auto;
+    text-align: center;
+    padding: 25px;
+    background: rgb(228, 239, 241);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.counter h1 {
+    font-size: 2rem;
+} 
+
+#main-number {
+    font-size: 9rem;
+}
+
+
+
+
